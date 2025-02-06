@@ -1,7 +1,7 @@
 students_name = [
-    {"name": "mamad", "family": "Rezaei", "class_number": 301},
-    {"name": "mohsen", "family": "Karimi", "class_number": 301},
-    {"name": "Hossein", "family": "Rostami", "class_number": 303},
+    {"name": "mamad", "family": "Rezaei", "class_number": 200},
+    {"name": "mohsen", "family": "Karimi", "class_number": 201},
+    {"name": "Hossein", "family": "Rostami", "class_number": 202},
 ]
 
 

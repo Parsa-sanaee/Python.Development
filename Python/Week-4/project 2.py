@@ -8,7 +8,7 @@ students_name = [
 def findStudent():
     found = False
     user_search = input("Enter the name of student: ")
-    for i in students:
+    for i in students_name:
         if i["name"] == user_search:
             found = True
             print("student found!")
